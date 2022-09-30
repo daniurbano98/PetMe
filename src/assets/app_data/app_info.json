@@ -1,0 +1,24 @@
+
+[{
+    "id": 1,
+    "text": "About Us"
+  },
+  {
+    "id": 2,
+    "text": "WHAT IS PetMe?"
+  },
+  {
+    "id": 3,
+    "text": "PetMe is a social network where users can find different animals needing to find an adoptive family. In PetMe people will find dogs, cats and other species of animals from animal shelters from around Barcelona and near cities. Our goal is to give visibility to all these animals in order to assure them a second chance."
+  },
+  {
+    "id": 4,
+    "text": "THE TEAM"
+  },
+  {
+    "id": 5,
+    "text": "<h1>Daniel Urbano</h1>:Father of three beautiful cats, is the person in charge of the logistics and the one who can help in every sector of PetMe, from backend to keeping in touch with the shelters we collaborate with. Afnan Amin: The dog lover of the team. He is the backend brain, the one who controls all the database information. Without him, we would just be a mess of information without organization. Pau Expósito: Our snake fanatic.He is an artist at everything he does, without him the business would not be the same, he is the image of what you see, corporative image and the user experience of PetMe"
+  }
+  
+]
+        
