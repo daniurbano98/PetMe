@@ -18,3 +18,4 @@ export class AppComponent {
   //Exporto los datos del JSON a la vista - Array que contendrá los datos del about us
   datos  = [listadedatos];
 }
+ 
